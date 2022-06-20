@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Fira Sans', 'Source Sans Pro', 'Open Sans', Roboto, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Myriad Pro', 'Segoe UI', Myriad, Helvetica, 'Lucida Grande', 'DejaVu Sans Condensed', 'Liberation Sans', 'Nimbus Sans L', Tahoma, Geneva, Arial, sans-serif;
+}
+
+.wrapper{
+    display: grid;
+    place-items: center;
+    padding-top: 30px;
+}
+
+form{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.btn{
+    padding: 0 20px 0 20px;
+}
+
+li{
+    list-style-type: none;
+    line-height: 25px;
+}
